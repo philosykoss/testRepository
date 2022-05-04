@@ -7,14 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>github 테스트용</h1>
-	<hr>
-	<ul>
-		<li>1111</li>
-		<li>2222</li>
-		<li>3333</li>
-		<li>4444</li>
-	</ul>
-	<p>안녕</p>
+	<h1>v3 추가파일</h1>
 </body>
 </html>
